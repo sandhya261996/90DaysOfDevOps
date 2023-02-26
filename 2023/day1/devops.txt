@@ -1,2 +1,48 @@
 DevOps is a methodology which Involves practices to bridge the gap of Dev and ops team by using Open source automation build tools.
 These are the articles which I refered to,
+
+1.What is DevOps?
+
+DevOps is a set of practices that combine software Development(Dev) and IT Operations (Ops). 
+It aims to shorten the systems development life cycle and provide continuous delivery with high software quality
+DevOps combines development and operations to increase the efficiency, speed, and security of software development and delivery compared to traditional processes.
+
+The DevOps methodology comprises four key principles that guide the effectiveness and efficiency of application development and deployment.
+
+Automation of the software development lifecycle
+
+Collaboration and communication
+
+Continuous improvement and minimization of waste
+
+Hyperfocus on user needs with short feedback loops.
+
+2. What are Automation, Scaling, and Infrastructure?
+
+Automation is the ability to use technology to perform tasks with minimal human effort.
+
+Scalability is the measure of the system's ability to increase or decrease in performance and cost in response to changes in application and system processing demands.
+
+Infrastructure is the foundation or framework that supports a system or organization. In computing, information technology infrastructure is composed of physical and virtual resources that support the flow, storage, processing, and analysis of data.
+
+3.Why DevOps is Important?
+
+DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
+
+Top five reasons why the industry has been so quick to adopt DevOps principles.
+
+Shorter Development Cycle and Faster Innovation.
+
+Reduced Deployment Failures, Rollbacks and Time to Recover.
+
+Improve Communication and Collaboration.
+
+Increased Efficiencies
+
+Reduced Costs and IT HeadCount.
+
+
+
+
+
+
