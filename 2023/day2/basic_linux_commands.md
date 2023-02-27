@@ -1,5 +1,5 @@
 ## Basic linux commands
-
+      
 ### Listing commands
 ```ls option_flag arguments ```--> list the sub directories and files avaiable in the present directory
 
